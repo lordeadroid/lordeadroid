@@ -7,7 +7,7 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordeadroid&theme=gruvbox&layout=compact" />
 </p>
 
-<p><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=lordeadroid&theme=gruvbox" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lordeadroid&theme=gruvbox" /></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=lordeadroid&theme=gruvbox&margin-w=4" /></p>
 
