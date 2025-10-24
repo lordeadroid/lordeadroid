@@ -1,5 +1,3 @@
-# Hello, I'm Rishabh Rawat
-
 ### Here are some of the stats
 
 <img src="https://readme-typing-svg.demolab.com?pause=2500&lines=%3CHello%2C+Rishabh+this+side!%2F%3E" />
