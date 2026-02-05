@@ -14,6 +14,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=lordeadroid&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
 </div>
 
+<img src="https://github-readme-stats-tau-pied.vercel.app/api?username=lordeadroid&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=gruvbox"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=lordeadroid&theme=gruvbox&margin-w=4" />
 
 <img src="https://komarev.com/ghpvc/?username=lordeadroid" align="right" />
